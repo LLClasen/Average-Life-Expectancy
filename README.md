@@ -6,7 +6,7 @@ An analysis of Center for Disease Control data about Death rates and life expect
 ## Description
 This project utilizes a data set of information provided by the Center for Disease Control, having originated from the National Center for Health Statistics. The data set is entitled “Death rates and life expectancy at birth”. The question sought to answer revolved around the Average Life Expectancy variable, and the correlation between that expectancy and the Year. 
 
-This data set contains five columns, or variables: Year, Race, Sex, Average Life Expectancy (in years), and Age-adjusted Death Rate. 
+This data set contains five columns, or variables: 
 
 <ul>
   <li>Year</li>
