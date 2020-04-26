@@ -20,7 +20,7 @@ This data set contains five columns, or variables:
 As a society we have come to understand that life expectancy has steadily increased over the years, most drastically in comparison to many (i.e. 100) years in the past. The outcome of my exploratory analysis on this data set does communicate a relevant linear relationship between the Year variable and the Average Life Expectancy variable. Therefore, our understanding that later years mean a higher life expectancy is supported by these data.
 
 ## Snippet
-The below chart gives an example of one of the analytical stepsused to explore this data.<br/>
+The below chart gives an example of one of the analytical steps used to explore this data.<br/>
 <br/>
 <img src="https://i.imgur.com/kJQ50P5.png" title="Life Expectancy">
 
